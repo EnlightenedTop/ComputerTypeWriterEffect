@@ -14,12 +14,12 @@ body {
   /* font-weight: bold; */
   line-height: 1.8;
   margin: 0 auto;
-  width: 55rem;
+  width: 60rem;
   color: #51cf66;
   /************************/
   /*neon effect to text*/
   /***********************/
-  text-shadow: 0 0 7px #51cf66, 0 0 10px #51cf66, 0 0 180px #0fa;
+  text-shadow: 0 0 7px #51cf66, 0 0 100px #51cf66, 0 0 180px #0fa;
 }
 .title {
   margin: 0 auto;
@@ -32,7 +32,7 @@ body {
   padding: 3rem 3rem;
   text-align: center;
   background-color: #111;
-  width: 55rem;
+  width: 65rem;
   height: 17rem;
   border-radius: 11px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
