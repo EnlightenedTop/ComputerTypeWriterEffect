@@ -14,7 +14,7 @@ body {
   /* font-weight: bold; */
   line-height: 1.8;
   margin: 0 auto;
-  width: 60rem;
+  width: 54rem;
   color: #51cf66;
   /************************/
   /*neon effect to text*/
@@ -29,11 +29,11 @@ body {
 }
 .typing-section {
   margin: 0 auto;
-  padding: 3rem 3rem;
+  padding: 3rem 4rem;
   text-align: center;
   background-color: #111;
-  width: 65rem;
-  height: 17rem;
+  width: 70rem;
+  height: 20rem;
   border-radius: 11px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
@@ -60,10 +60,10 @@ body {
 span {
   animation: blinker 0.3s linear infinite;
   color: #51cf66;
-  font-size: 3rem;
+  font-size: 2rem;
   margin-left: 0.5rem;
-  line-height: 1;
 }
+
 @keyframes blinker {
   50%,
   50% {
@@ -74,3 +74,11 @@ span {
     opacity: 100;
   }
 }
+/***************************************************/
+/****************Platform and ball******************/
+/**************************************************/
+/* .platform {
+  background-color: #51cf66;
+  width: 2rem;
+  height: 0.5rem;
+} */
